@@ -42,3 +42,10 @@ texture:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
